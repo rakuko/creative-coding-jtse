@@ -7,15 +7,15 @@ import ddf.minim.effects.*;
 
 
 
-//
+// Creative Coding - Assignment 1
 //
 // turtle_remixed -> does a "Hilbert" curve and draws it, and also does other things like change the background
-//                                 and alter sizes
+//                                 and play instruments (badly)
 // - Jonathan Tse
 //
 //         rips a lot of stuff from Luke's turtle2 code from the first class
 //         adds a frameRate() to control speed and ability to change frameRate value by pressing F or J.
-//         and some sound stuff with drum and guitar loops
+//         and some sound stuff with drum and guitar loops, D for drums, G for guitar, and B for both.
 //
 
 
